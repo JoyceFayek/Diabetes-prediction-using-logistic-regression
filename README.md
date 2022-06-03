@@ -23,8 +23,8 @@
 ----------------------------------------
 <b>Evaluation</b>
 
-        -The highest accuracy obtained was around 80.5% </p>
-        -Precision: 70.7%</p>
-        -Recall: 61.7%</p>
+        -The highest accuracy obtained was around 80.5%
+        -Precision: 70.7%
+        -Recall: 61.7%
 
 ----------------------------------------
