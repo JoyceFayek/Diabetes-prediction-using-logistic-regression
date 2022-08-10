@@ -7,9 +7,9 @@
 ----------------------------------------
  <b>data understanding</b>
  
-        -The data contains 768 rows and 9 columns</p>
-        -All data is numerical</p>
-        -There is no nulls in all columns</p>
+        -The data contains 768 rows and 9 columns
+        -All data is numerical
+        -There is no nulls in all columns
 ----------------------------------------
 <b>Data preparation</b>
 
